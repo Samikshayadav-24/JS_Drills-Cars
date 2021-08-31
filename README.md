@@ -32,7 +32,7 @@ Problem 6 : Write a function that will return an array that only contains BMW an
 ### _**Steps**_
 1. Open Visual Studio 2019
 2. Go to _**Git**_ tab,select _**Clone repository**_.
-3. Enter the git hub link [Link here] (https://github.com/Samikshayadav-24/JS-Drills---Car) in the repository location.
+3. Enter the git hub link [Link here] (https://github.com/Samikshayadav-24/JS_Drills-Cars) in the repository location.
 4. Open the Visual Studio Editor. 
 5. Use clone *repo-link* command clone the repository.
 6. Run files inside *TestProblem* folder to get the outputs of the problem.
